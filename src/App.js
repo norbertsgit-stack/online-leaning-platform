@@ -17,7 +17,7 @@ function App() {
 
           
         >
-          <p> Hello world,!!!</p>
+          <p> yoki </p>
           Learn React
         </a>
       </header>
