@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fdfdfd;
+  
+  color: #000000;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  margin-bottom: 200px;
+}
+
+.hero-section {
+ 
+ position: relative;
+ margin-top: 100px;
+}
+.hero-section h1{
+  font-size: 380%;
+}
+.hero-content p{
+  margin-top: 30px;
+  font-size: 110%;
+  font-style: italic;
+}
+.hero-content 
+.j h2 {
+  margin-top: 80px;
+}
+
+.k {
+  margin-top: 50px;
+  width: 100%;
+  height: auto;
+}
+
+
+
+.m button {
+  margin-left: 0px;
+  margin-top: 30px;
+ padding:10px;
+  position: relative;
+ 
+}
+.m button{
+ 
+  text-underline-offset: 20px;
+  text-decoration: solid;
+  color: rgb(255, 255, 255);
+  background-color: #121213;
+  border-bottom: solid;
+ border-bottom-right-radius: 11px;
+ border-top-left-radius: 11px;
+  }
+
+.explore {
+  padding: 20px 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 1rem;
+  border: none;
+  position: relative;
+  cursor: pointer;
+  color: #fff;
+  background: none;
+
+}
+
+
+
+
+.j {
+  float: left;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.j img {
+  width: 30%;
+  height: auto;
+  margin: 20px;
+}
+
+
+.bar {
+  font-size: 4rem;
+
+  color: #000000;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  cursor: pointer;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bar li{
+  display: inline-block; 
+}
+
+.bar a{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: larger;
+margin-right: 10px;
+margin-left: 10px;
+padding: 20px;
+text-underline-offset: 20px;
+text-decoration: solid;
+background-color: #ffffff;
+border-bottom: solid;
+}
+
+
+.bar a:hover{
+  background-color: #000000;
+  color: #fdfdfd;
+}
+
+
+.result{
+  text-align: center;
+}
